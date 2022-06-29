@@ -20,3 +20,5 @@ Ich bin ein **fleißiger Programmierer**, der Git lernen möchte
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+- [ ] Do interviews
+- [ ] Cash in!
