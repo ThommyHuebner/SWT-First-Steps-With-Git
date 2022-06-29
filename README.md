@@ -15,8 +15,10 @@ Ich bin ein **fleißiger Programmierer**, der Git lernen möchte
 | ----------- | ----------- |
 | Header | Title |
 | Eintrag 1 | Eintrag 3 |
-| Eintrag 2 | *Eintrag 4* |
+| Information 2 | *Eintrag 4* |
 
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+- [ ] Do interviews
+- [ ] Cash in!
