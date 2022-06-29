@@ -14,7 +14,8 @@ Ich bin ein **fleißiger Programmierer**, der Git lernen möchte
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
-| Paragraph | Text |
+| Eintrag 1 | Eintrag 3 |
+| Eintrag 2 | *Eintrag 4* |
 
 - [x] Write the press release
 - [ ] Update the website
