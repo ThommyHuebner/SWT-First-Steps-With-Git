@@ -22,3 +22,5 @@ Ich bin ein **fleißiger Programmierer**, der Git lernen möchte
 - [ ] Contact the media
 - [ ] Do interviews
 - [ ] Cash in!
+
+Hallo! Ich bin wieder da.
