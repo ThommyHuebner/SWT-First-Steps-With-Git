@@ -24,3 +24,5 @@ Ich bin ein **fleißiger Programmierer**, der Git lernen möchte
 - [ ] Cash in!
 
 Hallo! Ich bin wieder da.
+
+Diese Änderung wird durch Eclipse gepushed
